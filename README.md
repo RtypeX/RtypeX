@@ -26,16 +26,16 @@
 
 <p align="center">
   <a href="https://github.com/RtypeX/SportsPhotography">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=SportsPhotography&theme=tokyonight&hide_border=true&bg_color=00000000" alt="SportsPhotography repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=SportsPhotography&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="SportsPhotography repo card" />
   </a>
   <a href="https://github.com/RtypeX/PacmanRoguelike2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=PacmanRoguelike2&theme=tokyonight&hide_border=true&bg_color=00000000" alt="PacmanRoguelike2 repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=PacmanRoguelike2&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="PacmanRoguelike2 repo card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RtypeX/RAM-ReBuild-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=RAM-ReBuild-UI&theme=tokyonight&hide_border=true&bg_color=00000000" alt="RAM-ReBuild-UI repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=RAM-ReBuild-UI&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="RAM-ReBuild-UI repo card" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RtypeX&show_icons=true&include_all_commits=true&hide=contribs&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=RtypeX&theme=tokyonight&hide_border=true&background=00000000&ring=f472b6&fire=f59e0b&currStreakLabel=f9a8d4" alt="GitHub contribution streak and total contributions" />
 </p>
 
 <p align="center">
