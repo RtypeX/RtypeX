@@ -28,7 +28,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/RtypeX/SportsPhotography">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=SportsPhotography&theme=tokyonight&hide_border=true&bg_color=00000000" alt="SportsPhotography repo card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=SportsPhotography&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="SportsPhotography repo card" />
       </a>
       <br />
       <strong>SportsPhotography</strong>
@@ -41,7 +41,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/RtypeX/PacmanRoguelike2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=PacmanRoguelike2&theme=tokyonight&hide_border=true&bg_color=00000000" alt="PacmanRoguelike2 repo card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=PacmanRoguelike2&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="PacmanRoguelike2 repo card" />
       </a>
       <br />
       <strong>PacmanRoguelike2</strong>
@@ -56,7 +56,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/RtypeX/RAM-ReBuild-UI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=RAM-ReBuild-UI&theme=tokyonight&hide_border=true&bg_color=00000000" alt="RAM-ReBuild-UI repo card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=RAM-ReBuild-UI&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="RAM-ReBuild-UI repo card" />
       </a>
       <br />
       <strong>RAM-ReBuild-UI</strong>
