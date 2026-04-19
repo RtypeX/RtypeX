@@ -20,24 +20,68 @@
 
 - I like making projects that feel sharp, responsive, and a bit cinematic.
 - My work usually lands somewhere between game logic, polished web UI, and fun utility tools.
-- Current highlights include `PacmanRoguelike2`, `SportsPhotography`, and `RAM-ReBuild-UI`.
+- Current highlights include `PacmanRoguelike2`, `SportsPhotography`, `RAM-ReBuild-UI`, and `RoFlip`.
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/RtypeX/SportsPhotography">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=SportsPhotography&theme=tokyonight&hide_border=true&bg_color=00000000" alt="SportsPhotography repo card" />
-  </a>
-  <a href="https://github.com/RtypeX/PacmanRoguelike2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=PacmanRoguelike2&theme=tokyonight&hide_border=true&bg_color=00000000" alt="PacmanRoguelike2 repo card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RtypeX/RAM-ReBuild-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=RAM-ReBuild-UI&theme=tokyonight&hide_border=true&bg_color=00000000" alt="RAM-ReBuild-UI repo card" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RtypeX/SportsPhotography">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=SportsPhotography&theme=tokyonight&hide_border=true&bg_color=00000000" alt="SportsPhotography repo card" />
+      </a>
+      <br />
+      <strong>SportsPhotography</strong>
+      <br />
+      Portfolio and booking platform for Dustin Lapuz with curated galleries, full-gallery downloads, featured collections, and a Supabase-backed admin flow for managing images and inquiries.
+      <br /><br />
+      <sub>Next.js • React • Supabase</sub>
+      <br /><br />
+      <a href="https://dustinsshots.vercel.app/">Live</a> • <a href="https://github.com/RtypeX/SportsPhotography">Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RtypeX/PacmanRoguelike2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=PacmanRoguelike2&theme=tokyonight&hide_border=true&bg_color=00000000" alt="PacmanRoguelike2 repo card" />
+      </a>
+      <br />
+      <strong>PacmanRoguelike2</strong>
+      <br />
+      A C# game project that reworks the Pac-Man formula through a roguelike lens, mixing arcade movement with run-based structure, combat-style progression, and custom visual work.
+      <br /><br />
+      <sub>C# • Unity • Shaders</sub>
+      <br /><br />
+      <a href="https://github.com/RtypeX/PacmanRoguelike2">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RtypeX/RAM-ReBuild-UI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=RAM-ReBuild-UI&theme=tokyonight&hide_border=true&bg_color=00000000" alt="RAM-ReBuild-UI repo card" />
+      </a>
+      <br />
+      <strong>RAM-ReBuild-UI</strong>
+      <br />
+      A rebuilt interface for Roblox Account Manager focused on smoother multi-account workflows, quicker switching, and a more modern desktop experience around an already useful power tool.
+      <br /><br />
+      <sub>C# • Desktop UI • Roblox Tools</sub>
+      <br /><br />
+      <a href="https://github.com/RtypeX/RAM-ReBuild-UI">Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://roflip.pages.dev/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:312e81,55:6d28d9,100:7c3aed&text=RoFlip&fontColor=ffffff&fontSize=34&desc=Coinflip%20%7C%20Mines%20%7C%20Roulette&descAlignY=70&descSize=16" alt="RoFlip project card" />
+      </a>
+      <br />
+      <strong>RoFlip</strong>
+      <br />
+      A Roblox-inspired simulator with coinflip, mines, roulette, inventory tracking, and a fake marketplace layer built to feel like a complete gambling product concept without real purchases.
+      <br /><br />
+      <sub>TypeScript • Frontend UI • Product Simulation</sub>
+      <br /><br />
+      <a href="https://roflip.pages.dev/">Live</a>
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
@@ -55,8 +99,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RtypeX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=RtypeX&theme=tokyonight&hide_border=true&background=00000000&ring=f472b6&fire=f59e0b&currStreakLabel=f9a8d4" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RtypeX&show_icons=true&include_all_commits=true&hide=contribs&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -64,28 +107,25 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RtypeX&theme=tokyonight" alt="Profile details summary" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RtypeX&theme=tokyonight" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RtypeX&theme=tokyonight" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RtypeX&theme=tokyonight&utcOffset=-7" alt="Productive time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RtypeX&theme=tokyonight" alt="Summary stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RtypeX&bg_color=00000000&color=cbd5e1&line=f472b6&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://trophy.ryglcloud.net/?username=RtypeX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ## Links
 
 <div align="center">
-  <a href="https://sports-photography-seven.vercel.app">
+  <a href="https://dustinsshots.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Project-SportsPhotography-ec4899?style=for-the-badge&logo=vercel&logoColor=white" alt="SportsPhotography live site" />
+  </a>
+  <a href="https://roflip.pages.dev/">
+    <img src="https://img.shields.io/badge/Live%20Project-RoFlip-7c3aed?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="RoFlip live site" />
   </a>
   <a href="https://github.com/RtypeX">
     <img src="https://img.shields.io/badge/GitHub-RtypeX-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile link" />
