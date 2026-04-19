@@ -24,64 +24,20 @@
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/RtypeX/SportsPhotography">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=SportsPhotography&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="SportsPhotography repo card" />
-      </a>
-      <br />
-      <strong>SportsPhotography</strong>
-      <br />
-      Portfolio and booking platform for Dustin Lapuz with curated galleries, full-gallery downloads, featured collections, and a Supabase-backed admin flow for managing images and inquiries.
-      <br /><br />
-      <sub>Next.js • React • Supabase</sub>
-      <br /><br />
-      <a href="https://dustinsshots.vercel.app/">Live</a> • <a href="https://github.com/RtypeX/SportsPhotography">Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/RtypeX/PacmanRoguelike2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=PacmanRoguelike2&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="PacmanRoguelike2 repo card" />
-      </a>
-      <br />
-      <strong>PacmanRoguelike2</strong>
-      <br />
-      A C# game project that reworks the Pac-Man formula through a roguelike lens, mixing arcade movement with run-based structure, combat-style progression, and custom visual work.
-      <br /><br />
-      <sub>C# • Unity • Shaders</sub>
-      <br /><br />
-      <a href="https://github.com/RtypeX/PacmanRoguelike2">Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/RtypeX/RAM-ReBuild-UI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=RAM-ReBuild-UI&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="RAM-ReBuild-UI repo card" />
-      </a>
-      <br />
-      <strong>RAM-ReBuild-UI</strong>
-      <br />
-      A rebuilt interface for Roblox Account Manager focused on smoother multi-account workflows, quicker switching, and a more modern desktop experience around an already useful power tool.
-      <br /><br />
-      <sub>C# • Desktop UI • Roblox Tools</sub>
-      <br /><br />
-      <a href="https://github.com/RtypeX/RAM-ReBuild-UI">Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://roflip.pages.dev/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:312e81,55:6d28d9,100:7c3aed&text=RoFlip&fontColor=ffffff&fontSize=34&desc=Coinflip%20%7C%20Mines%20%7C%20Roulette&descAlignY=70&descSize=16" alt="RoFlip project card" />
-      </a>
-      <br />
-      <strong>RoFlip</strong>
-      <br />
-      A Roblox-inspired simulator with coinflip, mines, roulette, inventory tracking, and a fake marketplace layer built to feel like a complete gambling product concept without real purchases.
-      <br /><br />
-      <sub>TypeScript • Frontend UI • Product Simulation</sub>
-      <br /><br />
-      <a href="https://roflip.pages.dev/">Live</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/RtypeX/SportsPhotography">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=SportsPhotography&theme=tokyonight&hide_border=true&bg_color=00000000" alt="SportsPhotography repo card" />
+  </a>
+  <a href="https://github.com/RtypeX/PacmanRoguelike2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=PacmanRoguelike2&theme=tokyonight&hide_border=true&bg_color=00000000" alt="PacmanRoguelike2 repo card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RtypeX/RAM-ReBuild-UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RtypeX&repo=RAM-ReBuild-UI&theme=tokyonight&hide_border=true&bg_color=00000000" alt="RAM-ReBuild-UI repo card" />
+  </a>
+</p>
 
 ## Stack
 
