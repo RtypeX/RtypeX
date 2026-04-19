@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=F472B6&center=true&vCenter=true&width=980&lines=Late-night+builds+under+neon+skies;C%23+combat+logic+%2B+TypeScript+polish;Games%2C+tools%2C+and+anime-energy+UI" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=F472B6&center=true&vCenter=true&width=980&lines=C%23+and+TypeScript+projects;Games%2C+tools%2C+and+polished+UI;Clean+builds+with+a+neon-inspired+look" alt="Typing intro" />
 </div>
 
 <div align="center">
@@ -13,20 +13,16 @@
   <a href="https://github.com/RtypeX?tab=followers">
     <img src="https://img.shields.io/github/followers/RtypeX?style=for-the-badge&logo=github&label=Followers&color=7c3aed" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/Vibe-Neon%20Arcade%20Mode-111827?style=for-the-badge&logo=ghost&logoColor=f9a8d4" alt="Vibe badge" />
+  <img src="https://img.shields.io/badge/Focus-Games%20%7C%20UI%20%7C%20Tools-111827?style=for-the-badge&logo=github&logoColor=f9a8d4" alt="Focus badge" />
 </div>
 
-## Origin Story
-
-```text
-Building fast, visual projects with a little main-character energy.
-```
+## About
 
 - I like making projects that feel sharp, responsive, and a bit cinematic.
 - My work usually lands somewhere between game logic, polished web UI, and fun utility tools.
 - Current highlights include `PacmanRoguelike2`, `SportsPhotography`, and `RAM-ReBuild-UI`.
 
-## Featured Arcs
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/RtypeX/SportsPhotography">
@@ -43,7 +39,7 @@ Building fast, visual projects with a little main-character energy.
   </a>
 </p>
 
-## Power Loadout
+## Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-6d28d9?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -56,7 +52,7 @@ Building fast, visual projects with a little main-character energy.
   <img src="https://img.shields.io/badge/Lua-1f2937?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </div>
 
-## Battle Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RtypeX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
@@ -85,7 +81,7 @@ Building fast, visual projects with a little main-character energy.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RtypeX&bg_color=00000000&color=cbd5e1&line=f472b6&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
-## Quest Links
+## Links
 
 <div align="center">
   <a href="https://sports-photography-seven.vercel.app">
