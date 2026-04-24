@@ -91,3 +91,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b1020,30:172554,60:7c3aed,85:ec4899,100:f9a8d4&section=footer" alt="Footer wave" />
 </div>
+
